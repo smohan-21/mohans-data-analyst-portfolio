@@ -1,6 +1,6 @@
 # 🌐 Mohan S — Data Analyst Portfolio
 
-> **Live Portfolio:** [https://smohan-21.github.io/portfolio/](https://smohan-21.github.io/portfolio/)
+> **Live Portfolio:** [https://smohan-21.github.io/mohans-data-analyst-portfolio/](https://smohan-21.github.io/mohans-data-analyst-portfolio/)
 
 ---
 
@@ -111,7 +111,7 @@ portfolio/
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [smohan-21.github.io/portfolio](https://smohan-21.github.io/portfolio/) |
+| 🌐 Portfolio | [smohan-21.github.io/mohans-data-analyst-portfolio](https://smohan-21.github.io/mohans-data-analyst-portfolio/) |
 | 💼 LinkedIn | [linkedin.com/in/mohans-data-analyst](https://www.linkedin.com/in/mohans-data-analyst) |
 | 🐙 GitHub | [github.com/smohan-21](https://github.com/smohan-21) |
 | 📧 Email | mikeymohan21@gmail.com |
